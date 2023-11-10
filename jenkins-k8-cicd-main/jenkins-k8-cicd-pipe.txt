@@ -99,7 +99,7 @@ spec:
               ])
               {
                sh '''
-                  echo "Login to CD Helm Repo..."
+                  echo "Login to CD Helm R.."
                   echo ${AWS_ACCESS_KEY_ID}
                   echo ${AWS_SECRET_ACCESS_KEY}
                   echo ${AWS_DEFAULT_REGION}
